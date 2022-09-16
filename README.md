@@ -3,6 +3,17 @@ When browsing YouTube, we often bias ourselves against which videos are good / b
 
 This script removes all views from YouTube so that you focus entirely on the thumbnail / title.
 
+# Demo
+
+### Video
+![exampleVideoNoViews](https://raw.githubusercontent.com/griffinbeels/hide-youtube-video-views/main/exampleVideoNoViews.png)
+
+### Channel
+![exampleChannelNoViews](https://raw.githubusercontent.com/griffinbeels/hide-youtube-video-views/main/exampleChannelNoViews.png)
+
+### Home
+![exampleHomeNoViews](https://raw.githubusercontent.com/griffinbeels/hide-youtube-video-views/main/exampleHomeNoViews.png)
+
 # Prerequisites / Assumptions
 1. Install [Tampermonkey](https://www.tampermonkey.net/). Tampermonkey allows for custom scripts to be executed on any webpage. In this case, we are executing a script on YouTube.
 2. This script has only been tested on Google Chrome. If you use another browser, it may not work as expected.
